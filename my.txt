@@ -1,1 +1,1 @@
-hi hpw r u
+print("hello")
